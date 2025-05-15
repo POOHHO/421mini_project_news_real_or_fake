@@ -67,6 +67,6 @@ if st.button("Predict"):
 # Footer
 st.markdown("""
 ---
-Built with ❤️ using Streamlit and XGBoost.  
-Dataset: [Kaggle Fake News](https://www.kaggle.com/c/fake-news/data)
+❤️ using Streamlit and XGBoost.  
+Dataset: [Kaggle Fake News Prediction Dataset](https://www.kaggle.com/datasets/rajatkumar30/fake-news)
 """)
